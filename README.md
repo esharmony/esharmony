@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @esharmony
 - 👀 I’m interested in all things JavaScript
-- 🌱 I’m currently learning NextJs SSG / Strapi 
 - 💞️ I’m looking to collaborate on, open to ideas 
 - 📫 How to reach me Twitter @DevSabbatical 
 
